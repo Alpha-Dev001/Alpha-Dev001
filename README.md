@@ -34,7 +34,7 @@ const alpha = {
   workflow: "Figma → Framer → Code",
   langs:    ["English", "Kinyarwanda"],
   open_to:  "Full-time · Freelance",
-  hobbies:  ["Traditional Dance 💃", "Volleyball 🏐"],
+  hobbies:  ["Traditional Dance ", "Volleyball "],
 };
 ```
 
