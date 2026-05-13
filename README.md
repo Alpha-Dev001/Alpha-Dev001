@@ -95,37 +95,6 @@ const alpha = {
 </table>
 
 </div>
-
----
-
-## 🗂️ Projects
-
-<br/>
-
-### ⚖️ Law Connect
-> Full-stack legal services platform connecting users with legal professionals.
-
-```yaml
-Description : JWT authentication · REST API · MongoDB backend · React dashboard
-Stack       : Node.js · Express.js · MongoDB · React
-Type        : Full Stack Application
-Status      : 🟢 Live
-```
-
----
-
-### 🌐 Personal Portfolio
-> Responsive developer portfolio with Figma-driven design system and smooth transitions.
-
-```yaml
-Description : Custom component library · Figma design system · Animated UI
-Stack       : React · CSS · Figma · Framer
-Type        : Frontend Application
-Status      : 🟢 Live
-```
-
----
-
 ## 📬 Connect
 
 <div align="center">
