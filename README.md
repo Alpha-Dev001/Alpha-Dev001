@@ -95,6 +95,10 @@ const alpha = {
 </table>
 
 </div>
+
+<br clear="right"/>
+
+---
 ## 📬 Connect
 
 <div align="center">
