@@ -30,7 +30,7 @@ const alpha = {
   role:     "Full Stack Developer",
   location: "Kigali, Rwanda 🇷🇼",
   school:   "Rwanda Coding Academy",
-  focus:    ["Backend Architecture", "UI/UX Design"],
+  focus:    ["Backend Architecture"],
   workflow: "Figma → Framer → Code",
   langs:    ["English", "Kinyarwanda"],
   open_to:  "Full-time · Freelance",
