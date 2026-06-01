@@ -27,14 +27,13 @@
 ```typescript
 const alpha = {
   name:     "MUNEZERO Alpha",
-  role:     "Full Stack Developer",
+  role:     "Cloud Infrastructure & Backend Engineer",
   location: "Kigali, Rwanda 🇷🇼",
   school:   "Rwanda Coding Academy",
-  focus:    ["Backend Architecture"],
-  workflow: "Figma → Framer → Code",
+  focus:    ["Distributed Systems", "Cloud Architecture", "DevOps Automation"],
+  workflow: "System Design → Infrastructure as Code (IaC) → Scalable API",
   langs:    ["English", "Kinyarwanda"],
-  open_to:  "Full-time · Freelance",
-  hobbies:  ["Traditional Dance ", "Volleyball "],
+  open_to:  "Full-time · DevOps/Cloud Roles · Remote"};
 };
 ```
 
