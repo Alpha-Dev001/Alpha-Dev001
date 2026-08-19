@@ -158,40 +158,6 @@ I focus on building systems that are understandable, maintainable, and easy to e
 
 ---
 
-## Current Learning
-
-### Backend
-
-- Advanced Spring Boot
-- Spring Security
-- REST API design
-- Transactions
-- Backend testing
-- Database optimization
-- System design
-- Distributed systems
-
-### Databases
-
-- PostgreSQL
-- Query optimization
-- Indexing
-- Transactions
-- Database relationships
-- Redis and caching
-
-### Cloud & DevOps
-
-- AWS architecture
-- Docker
-- Terraform
-- CI/CD
-- Linux
-- Containerization
-- Monitoring and observability
-
----
-
 ## Engineering Journey
 
 ```text
@@ -209,32 +175,6 @@ Cloud & Infrastructure
 My primary focus is now **Backend Engineering**.
 
 Cloud and DevOps remain part of my development path because I want to understand not only how to build backend systems, but also how those systems are deployed, operated, and improved.
-
----
-
-## Development Workflow
-
-```text
-Understand the problem
-          ↓
-Design the domain
-          ↓
-Design the database
-          ↓
-Define the API
-          ↓
-Implement the backend
-          ↓
-Validate input
-          ↓
-Handle errors
-          ↓
-Test
-          ↓
-Deploy
-          ↓
-Monitor & improve
-```
 
 ---
 
