@@ -2,21 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0a1628,100:0d3b6e&height=200&section=header&text=MUNEZERO%20Alpha&fontSize=58&fontColor=ffffff&fontAlignY=45&fontFamily=Raleway&animation=fadeIn" width="100%"/>
 
-<h3>Cloud Infrastructure & Backend Engineer — Kigali, Rwanda</h3>
+<h3>Backend Engineer — Kigali, Rwanda</h3>
+
+<p>Building reliable backend systems, REST APIs, and database-driven applications.</p>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Architecting+cloud-native+infrastructure+on+AWS+%2F+GCP;Infrastructure+as+Code+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kubernetes;CI%2FCD+pipelines+%C2%B7+Observability+%C2%B7+Zero-downtime+deploys;Building+resilient+systems+that+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+reliable+backend+systems;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+NestJS;REST+APIs+%C2%B7+Databases+%C2%B7+Architecture;Turning+requirements+into+maintainable+software)](https://git.io/typing-svg)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-alphamnzr%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:alphamnzr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alphamnzr%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:alphamnzr@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B250%20788%20607%20974-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/250788607974)
+[![GitHub](https://img.shields.io/badge/GitHub-alphamnzr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alphamnzr)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MUNEZERO%20Alpha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 &nbsp;
 [![Location](https://img.shields.io/badge/Kigali%2C%20Rwanda-0d3b6e?style=flat-square)](https://www.google.com/maps/place/Kigali)
-&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=alphamnzr&style=flat-square&color=0d3b6e&label=Profile+Views)](https://github.com/alphamnzr)
 
 </div>
 
@@ -24,93 +26,150 @@
 
 ---
 
-```hcl
-# terraform { who = "alpha" }
+```java
+// Backend Engineer Profile
 
-resource "engineer" "alpha" {
-  name     = "MUNEZERO Alpha"
-  role     = "Cloud Infrastructure & Backend Engineer"
-  location = "Kigali, Rwanda"
-  school   = "Rwanda Coding Academy"
+public class Alpha {
 
-  focus = [
-    "Cloud-Native Architecture",
-    "Infrastructure as Code (IaC)",
-    "DevOps & CI/CD Automation",
-    "Distributed Backend Systems",
-  ]
+    String name = "MUNEZERO Alpha";
+    String role = "Backend Engineer";
+    String location = "Kigali, Rwanda";
+    String school = "Rwanda Coding Academy";
 
-  cloud_providers = ["AWS", "GCP", "Firebase"]
-  iac_tools       = ["Terraform", "Docker", "Kubernetes"]
-  workflow        = "Design → IaC → Deploy → Monitor → Iterate"
-  open_to         = "DevOps · Cloud · Remote · Full-time"
+    String[] focus = {
+        "Backend Development",
+        "REST API Design",
+        "Database Engineering",
+        "Software Architecture"
+    };
+
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "Node.js",
+        "NestJS",
+        "Express.js"
+    };
+
+    String[] databases = {
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL"
+    };
+
+    String[] engineering = {
+        "Layered Architecture",
+        "DTOs",
+        "Validation",
+        "Exception Handling",
+        "Authentication",
+        "API Design"
+    };
+
+    String workflow =
+        "Understand → Design → Implement → Test → Deploy → Improve";
 }
 ```
 
 ---
 
-## Cloud & DevOps Stack
+## About Me
+
+I'm a backend-focused developer interested in building **reliable, maintainable, and well-structured software systems**.
+
+My current focus is backend engineering, especially:
+
+- Designing and building REST APIs
+- Developing services with Java and Spring Boot
+- Building Node.js and NestJS applications
+- Designing relational and NoSQL databases
+- Applying layered and modular architecture
+- Implementing validation and centralized error handling
+- Working with authentication and authorization
+- Turning real-world requirements into maintainable backend systems
+
+I'm also developing my cloud and DevOps knowledge so I can understand the complete path from backend code to deployment and operation.
+
+---
+
+## Backend Engineering Stack
 
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="160"><b>Cloud Platforms</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>IaC & Containers</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>CI/CD & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Observability</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="170"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>APIs</b></td>
+<td>
+<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Java Persistence</b></td>
+<td>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Security</b></td>
+<td>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</td>
+</tr>
 </table>
 
 </div>
@@ -119,12 +178,261 @@ resource "engineer" "alpha" {
 
 ## What I Build
 
-| Infrastructure | Deployment | Reliability |
+| Backend | Architecture | Data |
 |---|---|---|
-| VPC & Subnets | CI/CD Pipelines | Auto-scaling Groups |
-| IAM & Policies | Docker Builds | Load Balancers |
-| Terraform IaC | K8s Manifests | Health Checks |
-| Cloud Storage | Zero-downtime Deploys | Centralized Logging |
+| REST APIs | Layered Architecture | PostgreSQL |
+| Spring Boot | Service / Repository Pattern | MongoDB |
+| NestJS | DTO Architecture | MySQL |
+| Authentication | Validation & Error Handling | JPA / Hibernate |
+| Business Logic | Modular Design | Database Design |
+
+---
+
+## Featured Project
+
+### SkyBook
+
+**Java · Spring Boot · JPA · Hibernate · Maven · REST API**
+
+SkyBook is an airline booking management backend built as a **layered monolithic application**.
+
+The current project contains domain modules for:
+
+- Aircraft management
+- Airport management
+- Flight management
+- Passenger management
+
+### Architecture
+
+```text
+                    Client
+                      │
+                      ▼
+                ┌───────────┐
+                │ Controller│
+                └─────┬─────┘
+                      │
+                      ▼
+                ┌───────────┐
+                │  Service  │
+                └─────┬─────┘
+                      │
+                      ▼
+                ┌───────────┐
+                │ Repository│
+                └─────┬─────┘
+                      │
+                      ▼
+                   Database
+```
+
+### Request / Response Flow
+
+```text
+Request
+   ↓
+Request DTO
+   ↓
+Validation
+   ↓
+Service
+   ↓
+Mapper
+   ↓
+Entity
+   ↓
+Repository
+   ↓
+Database
+   ↓
+Entity
+   ↓
+Mapper
+   ↓
+Response DTO
+   ↓
+Response
+```
+
+### Engineering Concepts
+
+- Layered architecture
+- REST API development
+- DTO-based API design
+- JPA entity mapping
+- Entity relationships
+- Repository abstractions
+- Service interfaces and implementations
+- Request validation
+- Custom exceptions
+- Global exception handling
+- Standardized API responses
+- Database-backed business logic
+
+[View SkyBook →](https://github.com/alphamnzr)
+
+---
+
+## Other Backend Work
+
+### ZTRED
+
+**NestJS · Prisma · PostgreSQL · REST API**
+
+A modular backend system focused on workspace management and role-based functionality.
+
+- Workspace management
+- Membership management
+- Roles and permissions
+- Invitations
+- PostgreSQL persistence
+- Prisma ORM
+- REST API design
+
+[Explore my repositories →](https://github.com/alphamnzr)
+
+---
+
+### AlphaStream
+
+**MERN · WebRTC · Socket.IO**
+
+A real-time communication project exploring video communication, peer-to-peer connections, and real-time backend events.
+
+- WebRTC
+- Peer connections
+- Socket.IO
+- Real-time communication
+- Backend signaling
+- REST APIs
+
+[Explore my repositories →](https://github.com/alphamnzr)
+
+---
+
+### UbutaberaHub
+
+**Node.js · Express.js · MongoDB · REST API**
+
+A backend-focused platform built around connecting users with legal services and information.
+
+- REST API development
+- Express.js
+- MongoDB
+- Data modelling
+- Backend architecture
+- API validation
+
+[Explore my repositories →](https://github.com/alphamnzr)
+
+---
+
+## Backend Architecture Principles
+
+I focus on building systems that are understandable, maintainable, and easy to extend.
+
+- Clear separation of responsibilities
+- Meaningful naming
+- Explicit data flow
+- Reusable components
+- Strong input validation
+- Consistent error handling
+- Proper database relationships
+- Simple architecture before unnecessary complexity
+- Maintainability over unnecessary abstraction
+
+---
+
+## Current Learning
+
+### Backend
+
+- Advanced Spring Boot
+- Spring Security
+- REST API design
+- Transactions
+- Backend testing
+- Database optimization
+- System design
+- Distributed systems
+
+### Databases
+
+- PostgreSQL
+- Query optimization
+- Indexing
+- Transactions
+- Database relationships
+- Redis and caching
+
+### Cloud & DevOps
+
+- AWS architecture
+- Docker
+- Terraform
+- CI/CD
+- Linux
+- Containerization
+- Monitoring and observability
+
+---
+
+## Engineering Journey
+
+```text
+Web Development
+      ↓
+Full-Stack Development
+      ↓
+Backend Development
+      ↓
+System Architecture
+      ↓
+Cloud & Infrastructure
+```
+
+My primary focus is now **Backend Engineering**.
+
+Cloud and DevOps remain part of my development path because I want to understand not only how to build backend systems, but also how those systems are deployed, operated, and improved.
+
+---
+
+## Development Workflow
+
+```text
+Understand the problem
+          ↓
+Design the domain
+          ↓
+Design the database
+          ↓
+Define the API
+          ↓
+Implement the backend
+          ↓
+Validate input
+          ↓
+Handle errors
+          ↓
+Test
+          ↓
+Deploy
+          ↓
+Monitor & improve
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alphamnzr&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=7DD3FC&text_color=ffffff&icon_color=7DD3FC" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphamnzr&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=7DD3FC&text_color=ffffff" height="170"/>
+
+</div>
 
 ---
 
@@ -132,16 +440,22 @@ resource "engineer" "alpha" {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alphamnzr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alphamnzr@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/Message%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250788607974)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphamnzr)
 
-*Open to Cloud, DevOps & Backend roles — remote or on-site.*
+<br/>
+
+**Backend Engineering · Java · Spring Boot · Node.js · NestJS · Databases**
 
 </div>
 
 <br/>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b6e,50:0a1628,100:0a0a0a&height=120&section=footer" width="100%"/>
+
 </div>
