@@ -14,9 +14,9 @@
 
 [![Email](https://img.shields.io/badge/Email-alphamnzr%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:alphamnzr@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-alphamnzr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alphamnzr)
+[![GitHub](https://img.shields.io/badge/GitHub-alphamnzr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alpha-Dev001)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MUNEZERO%20Alpha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MUNEZERO%20Alpha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munezero-alpha-735a9839b/)
 &nbsp;
 [![Location](https://img.shields.io/badge/Kigali%2C%20Rwanda-0d3b6e?style=flat-square)](https://www.google.com/maps/place/Kigali)
 
@@ -244,9 +244,9 @@ Monitor & improve
 
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alphamnzr@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munezero-alpha-735a9839b/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphamnzr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alpha-Dev001)
 
 <br/>
 
