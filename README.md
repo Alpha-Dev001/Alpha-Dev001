@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0a1628,100:0d3b6e&height=200&section=header&text=MUNEZERO%20Alpha&fontSize=58&fontColor=ffffff&fontAlignY=45&fontFamily=Raleway&animation=fadeIn" width="100%"/>
 
-<h3>Backend Engineer — Kigali, Rwanda</h3>
+<h3>Software Engineer · Backend & Full-Stack Development · Kigali, Rwanda</h3>
 
 <p>Building reliable backend systems, REST APIs, and database-driven applications.</p>
 
