@@ -11,7 +11,7 @@ I build polished, production-minded software with carefully crafted interfaces, 
 ## Featured Projects
 
 ### MySort
-**Windows Desktop Application**
+**Cross-Platform Desktop Application**
 
 A local-first file organizer that keeps your Downloads folder organized through configurable rules. Designed with a polished desktop interface, safe file operations, and a consistent experience across the application.
 
